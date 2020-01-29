@@ -1,0 +1,39 @@
+// Global settings
+:ascii-ids:
+:encoding: UTF-8
+:lang: pt_PT
+:icons: font
+:toc:
+:toc-placement!:
+:toclevels: 3
+:numbered:
+:stem:
+
+ifdef::env-github[]
+:imagesdir: images/
+endif::[]
+
+[[doc]]
+= Paulo Borges - Example 2020
+:author: Paulo Borges
+:revnumber: 
+:revdate: {docdatetime}
+:version-label!:
+
+NOTE: Edited: 2020-01-29. Generated: {localdate} {localtime}
+
+toc::[]
+
+[[doc.summary]]
+== Summary
+
+This repository provide a set of sample/example code for my study/learning pupose.
+
+[[doc.license]]
+== License
+
+Copyright © 2020-2020 Paulo Borges
+
+This repository is available under the terms of the Apache License, Version 2.0 .
+
+See the accompanying LICENSE file for more details
